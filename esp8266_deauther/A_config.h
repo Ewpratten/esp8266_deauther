@@ -18,8 +18,8 @@
     Uncomment the type of LED  you're using
     Only one of them can be defined at a time!
    = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = */
-#define DIGITAL_LED
-//#define RGB_LED
+//#define DIGITAL_LED
+#define RGB_LED
 //#define NEOPIXEL_LED
 
 /* = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
